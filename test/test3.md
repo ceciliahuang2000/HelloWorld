@@ -1,4 +1,3 @@
-Test3 first line.
-Test3 second line.
-Test3 third line.
-Test3 fourth line.
+Test3 contains first line.
+Test3 contains second line.
+Test3 contains third line.
